@@ -1,5 +1,5 @@
 # config-service (ITBooks)
-Сервер конфигурации микросервиса [product-service](https://github.com/ArtJDev/product-service) сервиса управления каталогом книг интернет магазина ITBooks
+Сервер конфигурации микросервиса [product-service](https://github.com/ArtJDev/product-service) - сервиса управления каталогом книг интернет магазина ITBooks
 
 **Стек: Java 17, Spring Boot 3.0, Spring Cloud Config Server**
 ## Описание
